@@ -1,0 +1,124 @@
+*{
+    padding: 0%;
+    margin: 0%;
+ }
+ #one{
+    background-image: url(first.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    height: 500px;
+    background-size: cover;
+ }
+ .a{
+  text-align: center;
+  font-weight: 800 px;
+  font-size: 100px;
+  color: white;
+ }
+ #btn{
+  background-color: brown;
+  color: aliceblue;
+  border: 2px  solid white;
+  height:65px;
+  width: 135px;
+ }
+ #btn:hover{
+  background-color: cadetblue;
+  color: aliceblue;
+ }
+#two{
+    height: 180px;
+}
+.b{
+    text-align: center;
+    font-size: 30px;
+    color:black;
+}
+ .c{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    
+ }
+ .child{
+    margin: 40px;
+ }
+ #three{
+    background-color: brown;
+ }
+ .d{
+    display: flex;
+    justify-content: space-around;
+   color: white;
+ }
+ .child2{
+    margin: 50px;
+ }
+ #btn1{
+    border: 2px solid white;
+    background-color: brown;
+    color:white;
+    height: 38px;
+    width: 86px;
+    margin: 55px;
+ }
+ #btn1:hover{
+   background-color: cadetblue;
+   color: aliceblue;
+  }
+ #four{
+   background-color: rgb(211, 204, 211);
+   height: 210px;
+   margin: -18;
+ }
+ .d{
+   display: flex;
+   position: relative;
+   
+ }
+.child3{
+   color: black;
+   background-color: white;
+   width: 425px;
+   margin: 35px;
+   height: 135px;
+   
+}
+.child3a{
+ background-color: brown;
+ color: white;
+ 
+ width: 460px;
+ margin: 35px;
+ height: 135px;
+ justify-content: center;
+}
+   #ab{
+   margin:15px;
+   font-size:xx-large;
+}
+#five{
+   background-color: white;
+   text-align: center;
+   color: black;
+}
+.f{
+   display: flex;
+   justify-content: space-around;
+   justify-content: space-between;
+   margin: 25px;
+}
+.child4{
+   width: 40%;
+}
+img{
+   height: 300px;
+   width: 400px;
+}
+#e{
+padding-top: 10px;
+   color: black;
+   font-size: 50px;
+   text-align: center;
+}
+
